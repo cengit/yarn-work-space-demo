@@ -3,4 +3,4 @@
   "workspaces": ["workspace-a", "workspace-b"],
   "name": "yarn-work-space-demo",
   "version": "1.0.0"
-}  
+}
